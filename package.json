@@ -1,0 +1,24 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "Video Ideas Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Babashov/Video-Ideas-Project.git"
+  },
+  "keywords": [
+    "videos",
+    "ideas",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Babashov Mahammad <m@babashov.info>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
